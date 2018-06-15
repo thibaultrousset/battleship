@@ -1,4 +1,9 @@
 # battleship
 
-Jeu de bataille navale à jouer en console de terminal contre une IA.
-Projet encore inachevé
+Battleship game to play on terminal against an AI
+Not yet operational
+
+## Built With
+
+* TypeScript
+
